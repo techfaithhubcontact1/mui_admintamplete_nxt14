@@ -5,8 +5,21 @@
 
 .w {
     height: 400px;
+    background-color: aquamarine;
 }
 
 .w2 {
-    width: 200px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(233, 78, 225);
+    text-align: center;
+    font-size: 50px;
 }
+
+/* .mrg { 
+    width: 220px;
+    height: 200px;
+    text-align: center;
+    background-color: aqua;
+    margin-left: 50px;
+} */
